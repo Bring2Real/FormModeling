@@ -42,6 +42,7 @@ testem.log
 Thumbs.db
 
 # Initial for Node
+*-lock.json
 
 # Logs
 logs
